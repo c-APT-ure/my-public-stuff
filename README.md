@@ -1,7 +1,7 @@
 # My public stuff
 repo for sharing stuff
 
-Here are some of my presentation slides from Sysmon talks.
+Here are some of my presentation slides from conference talks.
 
 Enjoy!
 
